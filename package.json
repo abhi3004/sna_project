@@ -1,0 +1,33 @@
+{
+  "name": "sna_project",
+  "version": "1.0.0",
+  "description": "To analyse the propogation of rumors v/s real news in politics on twitter ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi3004/sna_project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "twitter",
+    "angular"
+  ],
+  "author": "Abhijeet Pareek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi3004/sna_project/issues"
+  },
+  "homepage": "https://github.com/abhi3004/sna_project#readme",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.0.9",
+    "twitter": "^1.7.1"
+  }
+}
